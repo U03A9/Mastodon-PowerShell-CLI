@@ -1,0 +1,15 @@
+                     ######  ########    ###    ##       ########    ###    ########  
+                    ##    ##    ##      ## ##   ##       ##         ## ##   ##     ## 
+                    ##          ##     ##   ##  ##       ##        ##   ##  ##     ## 
+                     ######     ##    ##     ## ##       ######   ##     ## ##     ## 
+                          ##    ##    ######### ##       ##       ######### ##     ## 
+                    ##    ##    ##    ##     ## ##       ##       ##     ## ##     ## 
+                     ######     ##    ##     ## ######## ######## ##     ## ########  
+
+          This script will evaluate AD Computers, output any objects that have not been logged in 
+                    for more than 365 days, and then remove them from Active Directory.
+                         
+                         Please wait while AD objects are gathered from the domain               
+
+
+

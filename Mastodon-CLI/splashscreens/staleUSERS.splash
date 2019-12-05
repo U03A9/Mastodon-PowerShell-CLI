@@ -1,0 +1,15 @@
+                     ######  ########    ###    ##       ########    ###    ########  
+                    ##    ##    ##      ## ##   ##       ##         ## ##   ##     ## 
+                    ##          ##     ##   ##  ##       ##        ##   ##  ##     ## 
+                     ######     ##    ##     ## ##       ######   ##     ## ##     ## 
+                          ##    ##    ######### ##       ##       ######### ##     ## 
+                    ##    ##    ##    ##     ## ##       ##       ##     ## ##     ## 
+                     ######     ##    ##     ## ######## ######## ##     ## ########  
+
+              This script will evaluate AD Users, output any users that have not logged in 
+                for more than 365 days, and then move them to a Stale Users OU container.
+                     
+                       Please wait while AD objects are gathered from the domain               
+
+
+
